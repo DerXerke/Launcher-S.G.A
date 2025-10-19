@@ -1,4 +1,6 @@
 {
   "latest_version": "1.2.0",
-  "download_url": "https://raw.githubusercontent.com/DerXerke/Launcher-S.G.A/main/version.json"
+  "mandatory": false,
+  "download_url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1.2.0/Launcher_SGA_Setup.exe",
+  "changelog": "• Correcciones y mejoras\n• Nuevo sistema de actualizaciones"
 }
