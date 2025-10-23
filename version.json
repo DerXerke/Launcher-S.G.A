@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.13.3",
-  "download_url": "https://github.com/DerXerke/Launcher-S.G.A/releases/download/v1.11.0/launcher_win.zip",
-  "sha256": ""
+  "version": "1.13.4",
+  "url": "https://github.com/DerXerke/Launcher-S.G.A/releases/latest/download/setup%20launcher%20S.G.A.exe",
+  "changelog": "Corrección de errores y mejoras visuales."
 }
