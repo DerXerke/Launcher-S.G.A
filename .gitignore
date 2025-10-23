@@ -1,0 +1,14 @@
+# Carpetas privadas (no se suben)
+updates/
+installer/
+_internal/
+__pycache__/
+
+# Archivos temporales
+*.log
+*.tmp
+*.spec
+
+# Permitir archivos públicos
+!version.json
+!.gitignore
