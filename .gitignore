@@ -1,17 +1,12 @@
-# Carpetas privadas: no se suben ni se muestran
 updates/
 _internal/
 __pycache__/
 temp/
-cache/
-
-# Archivos temporales
 *.log
 *.tmp
 *.bak
 *.spec
 
-# Permitir solo estas rutas y archivos
 !installer/
 !version.json
 !.gitignore
