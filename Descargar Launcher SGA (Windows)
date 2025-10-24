@@ -1,0 +1,17 @@
+# Launcher S.G.A
+
+[![Descargar para Windows](https://img.shields.io/badge/Descargar-setup.exe-2ea043?style=for-the-badge&logo=windows)](https://github.com/DerXerke/Launcher-S.G.A/releases/latest/download/setup.exe)
+[![Ver todas las versiones](https://img.shields.io/badge/Otras%20versiones-Releases-0969da?style=for-the-badge&logo=github)](https://github.com/DerXerke/Launcher-S.G.A/releases)
+
+Launcher Minecraft Java fácil y confiable.
+
+## Instalación
+1. Descarga el instalador (**setup.exe**) desde el botón de arriba.  
+2. Ejecuta el instalador. Si Windows muestra *“Windows protegió su PC”*, pulsa **Más información → Ejecutar de todas formas**.
+
+## Requisitos
+- Windows 10/11 (x64)
+- Java no es obligatorio; el launcher se encarga.
+
+## Actualizaciones
+El launcher se actualiza solo. Si algo falla, descarga de nuevo el **setup.exe** desde Releases.
