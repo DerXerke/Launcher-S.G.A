@@ -1,11 +1,11 @@
 # Launcher S.G.A
+[![LAUNCHER SGA (WINDOWS)](https://img.shields.io/badge/LAUNCHER%20SGA%20(Windows)-Descargar-2ea043?style=for-the-badge&logo=windows)](https://github.com/DerXerke/Launcher-S.G.A/releases/download/A/setup.launcher.S.G.A.exe) 
+
+
 <img width="350" height="450" alt="ChatGPT Image 23 oct 2025, 08_09_33 p m" src="https://github.com/user-attachments/assets/27d38064-ea8f-4f07-98ae-292c69444349" />
          <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/113eabb3-9d1a-4c57-bfd2-a210bd803df3" />   <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/49b68989-6b38-4296-b19d-07456d90a73d" />  <img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/da25b0f7-547c-4e4d-bc84-51eff1472a39" />
 
 
-
-
-[![LAUNCHER SGA (WINDOWS)](https://img.shields.io/badge/LAUNCHER%20SGA%20(Windows)-Descargar-2ea043?style=for-the-badge&logo=windows)](https://github.com/DerXerke/Launcher-S.G.A/releases/download/A/setup.launcher.S.G.A.exe) 
 
 ---
 
