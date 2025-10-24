@@ -1,5 +1,5 @@
 # Launcher S.G.A
-<img width="1024" height="1024" alt="3cd758c9-756e-4930-addf-9998b8c5fe45" src="https://github.com/user-attachments/assets/b839a17b-8aba-4af9-8f4d-b5bb4134444d" />
+<img width="350" height="183" alt="image" src="https://github.com/user-attachments/assets/4fd45f96-d763-4feb-857e-98a0bc1be5f9" />
 
 [![LAUNCHER SGA (WINDOWS)](https://img.shields.io/badge/LAUNCHER%20SGA%20(Windows)-Descargar-2ea043?style=for-the-badge&logo=windows)](https://github.com/DerXerke/Launcher-S.G.A/releases/download/A/setup.launcher.S.G.A.exe)
 
