@@ -1,5 +1,6 @@
 # Launcher S.G.A
-<img width="350" height="183" alt="image" src="https://github.com/user-attachments/assets/4fd45f96-d763-4feb-857e-98a0bc1be5f9" />
+![Uploading ChatGPT Image 23 oct 2025, 08_09_33 p.m..png…]()
+
 
 [![LAUNCHER SGA (WINDOWS)](https://img.shields.io/badge/LAUNCHER%20SGA%20(Windows)-Descargar-2ea043?style=for-the-badge&logo=windows)](https://github.com/DerXerke/Launcher-S.G.A/releases/download/A/setup.launcher.S.G.A.exe)
 
