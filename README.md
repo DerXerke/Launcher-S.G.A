@@ -1,5 +1,5 @@
 # Launcher S.G.A
-[![LAUNCHER SGA (WINDOWS)](https://img.shields.io/badge/LAUNCHER%20SGA%20(Windows)-Descargar-2ea043?style=for-the-badge&logo=windows)](https://github.com/DerXerke/Launcher-S.G.A/releases/download/A/setup.launcher.S.G.A.exe) 
+[![LAUNCHER SGA (WINDOWS)](https://img.shields.io/badge/LAUNCHER%20SGA%20(Windows)-Descargar-2ea043?style=for-the-badge&logo=windows)](https://github.com/DerXerke/Launcher-S.G.A/releases/download/A/instalador.setup.exe) 
 
 
 <img width="350" height="450" alt="ChatGPT Image 23 oct 2025, 08_09_33 p m" src="https://github.com/user-attachments/assets/27d38064-ea8f-4f07-98ae-292c69444349" />
@@ -19,11 +19,3 @@ Tu archivo **no es malware**; solo aún no tiene reputación suficiente.
 
 > En próximas versiones añadiremos firma/reputación para que este aviso desaparezca.
 
----
-
-## Verificar integridad (opcional)
-Compara el **SHA-256** del instalador con el valor publicado.
-
-**PowerShell:**
-```powershell
-Get-FileHash "$env:USERPROFILE\Downloads\setup.launcher.S.G.A.exe" -Algorithm SHA256 | Select-Object Hash
