@@ -24,3 +24,5 @@ Tu archivo **no es malware**; solo aún no tiene reputación suficiente.
 
 > En próximas versiones añadiremos firma/reputación para que este aviso desaparezca.
 
+
+©DerXerk
