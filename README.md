@@ -15,6 +15,9 @@
 Es **Microsoft Defender SmartScreen**. Suele aparecer en apps nuevas o sin firma digital.
 Tu archivo **no es malware**; solo aún no tiene reputación suficiente.
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4d917688-9118-41a9-96e4-d6e3345339f9" />
+
+
 **Qué hacer:**
 1. En el aviso azul, pulsa **Más información**.  
 2. Pulsa **Ejecutar de todas formas**.
